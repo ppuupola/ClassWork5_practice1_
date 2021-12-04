@@ -1,0 +1,53 @@
+.Square {
+      background-color: #e99ee3;
+      width: 200px;
+      height: 200px;
+    }
+
+.Circle {
+  background-color: #e99ee3;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.IT_flag {
+  display: flex;
+}
+.Green {
+  height: 100px;
+  width: 60px;
+  background-color: green;
+}
+.White {
+  height: 100px;
+  width: 60px;
+  background-color: white;
+}
+.Red {
+  height: 100px;
+  width: 60px;
+  background-color: red;
+}
+
+.CR_flag {
+  display: flex;
+  flex-direction: column;
+}
+
+.CR_blue {
+  height: 20px;
+  width: 200px;
+  background-color: navy;
+}
+
+.CR_white {
+  height: 20px;
+  width: 200px;
+  background-color: white;
+}
+.CR_red {
+  height: 40px;
+  width: 200px;
+  background-color: red;
+}
